@@ -240,4 +240,4 @@ This repository serves as the official landing page for Miranda IM. The software
 **Get the most recent version of Miranda IM today!**
 
 ---
-**Last updated:** 2026-09-21 16:53:20 UTC
+**Last updated:** 2026-09-21 20:53:26 UTC
